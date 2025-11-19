@@ -6,6 +6,7 @@ This project currently includes only the frontend part of the application, with 
 The backend functionality is under development and will be added soon.
 Later, the project will also be enhanced with React.js and Tailwind CSS for a more dynamic and scalable UI.
 
+
 🚀 Features (Current Frontend)
 
 🎨 Fully responsive Spotify-like layout
@@ -35,6 +36,7 @@ Playlists, favourites, and history
 
 Database integration
 
+
 ⚛️ Frontend Enhancements (Future Plan)
 
 Rewriting UI using React.js
@@ -44,6 +46,7 @@ Styling upgraded to Tailwind CSS
 Component-based architecture
 
 Animations and transitions
+
 
 📂 Technologies Used
 
