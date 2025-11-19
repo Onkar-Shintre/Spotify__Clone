@@ -15,37 +15,37 @@ Later, the project will also be enhanced with React.js and Tailwind CSS for a mo
 
 🎵 Basic UI components such as:
 
-Sidebar navigation
+  *Sidebar navigation
 
-Home page
+  *Home page
 
-Music player bar (static)
+  *Music player bar (static)
 
-Playlist cards
+  *Playlist cards
 
 📱 Mobile-friendly design
 
 🛠️ Upcoming Features
 🔧 Backend (Coming Soon)
 
-User authentication
+  *User authentication
 
-Music streaming logic
+  *Music streaming logic
 
-Playlists, favourites, and history
+  *Playlists, favourites, and history
 
-Database integration
+  *Database integration
 
 
 ⚛️ Frontend Enhancements (Future Plan)
 
-Rewriting UI using React.js
+  *Rewriting UI using React.js
 
-Styling upgraded to Tailwind CSS
+  *Styling upgraded to Tailwind CSS
 
-Component-based architecture
+  *Component-based architecture
 
-Animations and transitions
+  *Animations and transitions
 
 
 📂 Technologies Used
@@ -63,7 +63,7 @@ JavaScript
 
 1.Clone this repository:
 
- git clone https://github.com/your-username/your-repo-name.git
+  git clone https://github.com/your-username/your-repo-name.git
 
 
 2.Open the project folder
