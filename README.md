@@ -7,7 +7,6 @@ The backend functionality is under development and will be added soon.
 Later, the project will also be enhanced with React.js and Tailwind CSS for a more dynamic and scalable UI.
 
 
-
 🚀 Features (Current Frontend)
 
 🎨 Fully responsive Spotify-like layout
