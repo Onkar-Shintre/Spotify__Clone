@@ -22,6 +22,7 @@ Later, the project will also be enhanced with React.js and Tailwind CSS for a mo
   *Music player bar (static)
 
   *Playlist cards
+  
 
 📱 Mobile-friendly design
 
